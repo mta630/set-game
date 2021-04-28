@@ -67,10 +67,10 @@
 // }
 
 public struct Card {
-    public string shape;
     public string color;
-    public string shade;
+    public string shape;
     public string number;
+    public string shade;
 }
 
 public class Set {
